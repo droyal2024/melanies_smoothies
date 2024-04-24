@@ -1,5 +1,4 @@
 # requirements.txt
-python==*
 snowflake-connector-python
 snowflake-snowpark-python
-streamilt==*
+streamilt==1.31.1
